@@ -1,0 +1,6 @@
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\bin\Debug\LastManStanding.exe.config
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\bin\Debug\LastManStanding.exe
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\bin\Debug\LastManStanding.pdb
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\obj\Debug\LastManStanding.csprojResolveAssemblyReference.cache
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\obj\Debug\LastManStanding.exe
+F:\Yazilim Projeler\C#\LastManStanding\LastManStanding\obj\Debug\LastManStanding.pdb
